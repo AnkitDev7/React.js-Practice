@@ -9,7 +9,7 @@ export const Github = () => {
     const Github = async () => {
       try {
         const GithubApi = await fetch(
-          "https://api.github.com/users/Itssinhashivam"
+          "https://api.github.com/users/AnkitDev7 "
         );
         const DataApi = await GithubApi.json();
         console.log(DataApi);
