@@ -1,6 +1,4 @@
 # React.js-Practice
-Here is a **clean, professional, portfolio-ready README description** for your repository **React.js-Practice**.
-You can copy-paste directly into your README.md.
 
 ---
 
